@@ -1,5 +1,5 @@
 # Introduction
-`openldap-matrix-sampler (aka `oms`) borrows from [potman](https://github.com/bsdpot/potman), [minio-incinerator](https://github.com/bretton/minio-incinerator/), [minio-sampler](https://github.com/hnygd/minio-sampler), `clusterfurnace` and `cephsmelter` to build a virtualbox and vagrant demonstration host with `consul`, `openldap` and `matrix`.
+`openldap-matrix-sampler` (aka `oms`) borrows from [potman](https://github.com/bsdpot/potman), [minio-incinerator](https://github.com/bretton/minio-incinerator/), [minio-sampler](https://github.com/hnygd/minio-sampler), `clusterfurnace` and `cephsmelter` to build a virtualbox and vagrant demonstration host with `consul`, `openldap` and `matrix`.
 
 Do not run in production! 
 
