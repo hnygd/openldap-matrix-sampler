@@ -1,0 +1,6 @@
+_build
+.vagrant
+*~
+sampler
+mysampler
+packer.log
