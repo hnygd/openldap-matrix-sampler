@@ -151,8 +151,8 @@ cat >site.yml<<"EOF"
       consul_bootstrap: 1
       consul_peers: 1.2.3.4
       openldap_base: openldap-amd64-13_1
-      openldap_version: "1.6.15"
-      openldap_pot_name: openldap-amd64-13_1_1_6_15
+      openldap_version: "1.6.17"
+      openldap_pot_name: openldap-amd64-13_1_1_6_17
       openldap_clone_name: openldap-clone
       openldap_url: https://potluck.honeyguide.net/openldap
       openldap_ip: 10.200.1.10
@@ -168,8 +168,8 @@ cat >site.yml<<"EOF"
       openldap_genericuser: "matrixuser"
       openldap_genericpass: "matrixpass"
       openldap_spare_base: openldap-amd64-13_1
-      openldap_spare_version: "1.6.15"
-      openldap_spare_pot_name: openldap-spare-amd64-13_1_1_6_15
+      openldap_spare_version: "1.6.17"
+      openldap_spare_pot_name: openldap-spare-amd64-13_1_1_6_17
       openldap_spare_clone_name: openldap-spare-clone
       openldap_spare_url: https://potluck.honeyguide.net/openldap
       openldap_spare_ip: 10.200.1.50
